@@ -1,5 +1,7 @@
 # Hi(Hola) my name is Tehillah Kangamba
 
+[![Tehillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehillahk)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About me
 - 2024 Graduated with BSc Computer Science from the [University of Manitoba](http://umanitoba.ca/) .
 - I'm a iOS Developer, Fullstack Node js developer and a backend ASP.NET Developer.
